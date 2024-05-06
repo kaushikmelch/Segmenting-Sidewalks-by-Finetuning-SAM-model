@@ -16,3 +16,6 @@ Run SAM_Finetuning.ipynb in the Milestone3 directory to get the results.
 
 ### Milestone 4
 The demo video can be found in the Milestone4 directory.
+
+### Milestone 5
+Run SAM_Milstone5.ipynb in the Milestone5 directory to get the results. 
