@@ -21,5 +21,7 @@ The demo video can be found in the Milestone4 directory.
 
 This file contains the fine tuned SAM model that detects sidewalks on satellite imagery. Further more the model is hosted on hugging face as well as an application.
 Link: https://huggingface.co/spaces/kaushikmellacheruvu/sidewalksegmenting/tree/main
+
+
 Run SAM_Milstone5.ipynb in the Milestone5 directory to get the results. 
 
